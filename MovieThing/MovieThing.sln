@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieThing", "MovieThing\MovieThing.csproj", "{9A900D57-78EF-4056-8C88-3B27EE0725B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieThing.Tests", "MovieThing.Tests\MovieThing.Tests.csproj", "{43866A47-92A9-40D7-890F-13820C8C8EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A900D57-78EF-4056-8C88-3B27EE0725B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A900D57-78EF-4056-8C88-3B27EE0725B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A900D57-78EF-4056-8C88-3B27EE0725B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A900D57-78EF-4056-8C88-3B27EE0725B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
