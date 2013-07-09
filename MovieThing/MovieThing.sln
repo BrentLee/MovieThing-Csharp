@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieThing", "MovieThing\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieThing.Tests", "MovieThing.Tests\MovieThing.Tests.csproj", "{43866A47-92A9-40D7-890F-13820C8C8EBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{78946225-42D2-4EF9-B59D-4A9FA0B14C88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43866A47-92A9-40D7-890F-13820C8C8EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78946225-42D2-4EF9-B59D-4A9FA0B14C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78946225-42D2-4EF9-B59D-4A9FA0B14C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78946225-42D2-4EF9-B59D-4A9FA0B14C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78946225-42D2-4EF9-B59D-4A9FA0B14C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
